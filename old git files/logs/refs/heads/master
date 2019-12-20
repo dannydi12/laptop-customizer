@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 2f402123486f71245f8246e5524a987c365b647f Daniel Di Venere <danieldivenere@gmail.com> 1576813713 -0800	clone: from https://github.com/Thinkful-Ed/laptop_customizer.git
+2f402123486f71245f8246e5524a987c365b647f c68f4bc0fa323e5cf8fb9246e42b681ec4c80f2a Daniel Di Venere <danieldivenere@gmail.com> 1576820010 -0800	commit: stuff is working
+c68f4bc0fa323e5cf8fb9246e42b681ec4c80f2a 9281e53937fffb5fd72b06a3d91fc7185964390c Daniel Di Venere <danieldivenere@gmail.com> 1576820897 -0800	commit: working customizer
+9281e53937fffb5fd72b06a3d91fc7185964390c 3951694f772f9de0ce2622916d9e72603d45f89f Daniel Di Venere <danieldivenere@gmail.com> 1576821237 -0800	commit: cleaned up
+3951694f772f9de0ce2622916d9e72603d45f89f a97d54acd09e61bc1c5b97ce48cd22dbc690c62e Daniel Di Venere <danieldivenere@gmail.com> 1576822323 -0800	commit: everything works
+a97d54acd09e61bc1c5b97ce48cd22dbc690c62e b4b1391dd449285e6e76aa7fd1bdbc88c98e10d8 Daniel Di Venere <danieldivenere@gmail.com> 1576822552 -0800	commit: cleaned up one more time
+b4b1391dd449285e6e76aa7fd1bdbc88c98e10d8 c2abf5c1fe1b721f2514bdcea6b6aa1c138c7321 Daniel Di Venere <danieldivenere@gmail.com> 1576823017 -0800	commit: modularized css
